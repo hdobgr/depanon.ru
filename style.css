@@ -1,0 +1,78 @@
+body {
+    font-family: "Andika", sans-serif;
+    font-size: 30px;
+    margin: 0%;
+}
+
+.q {
+    color: white;
+    text-shadow: 0px 0px 20px yellow,
+        0px 0px 20px yellow,
+        0px 0px 40px yellow,
+        0px 0px 80px yellow;
+    line-height: 0.5;
+    font-size: 50px;
+    padding: 2px;
+    margin-bottom: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.b {
+    width: 100%;
+    background-color: rgb(128, 247, 255);
+    margin-bottom: 30px;
+
+}
+
+.site {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.button {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.k {
+    display: block;
+    flex: 1;
+    width: 100%;
+    background-color: rgb(208, 255, 196);
+    margin-bottom: 25px;
+    border-radius: 25px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+
+.one {
+    background-color: rgb(208, 255, 196);
+    border-radius: 25px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+dd {
+    margin-bottom: 25px;
+}
+
+dt {
+    margin-bottom: 25px;
+}
+
+li {
+    margin-bottom: 25px;
+    background-color: rgb(208, 255, 196);
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 50px;
+}
+
+
+.pop {
+    line-height: 1.5;
+}
